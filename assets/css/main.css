@@ -3206,15 +3206,6 @@ input, select, textarea {
 
 	/*specify how the footer/get in touch image is*/
 	/*css for play button*/
-	body {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 100vh;
-		margin: 0;
-		background-color: #333;
-		overflow: hidden;
-	  }
 	  
 	  .play-button {
 		width: 152px;
