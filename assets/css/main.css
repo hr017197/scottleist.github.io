@@ -3203,102 +3203,7 @@ input, select, textarea {
 				}
 
 	}
-
-	.iframe-container{
-		position:relative;
-		width:100%;
-		padding-bottom: 56.25%;
-		height:0;
-	}
-
-	.iframe-container iframe{
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height: 100%
-	}
-
-
-
-
-	/*specify how the footer/get in touch image is*/
-	/*css for play button*/
-	  
-	  .play-button {
-		width: 152px;
-		height: 152px;
-		position: relative;
-		cursor: pointer;
-	  }
-	  
-	  .play-backdrop {
-		width: 100%;
-		height: 100%;
-		position: fixed;
-		left: 0;
-		top: 0;
-		background-color: #000;
-		opacity: 0;
-		visibility: hidden;
-	  }
-	  
-	  .play-close {
-		width: 30px;
-		height: 30px;
-		position: absolute;
-		right: 0;
-		bottom: calc(100% + 15px);
-		border: none;
-		outline: none;
-		background: none;
-		opacity: 0;
-		cursor: pointer;
-	  }
-	  
-	  .play-close::before,
-	  .play-close::after {
-		content: "";
-		display: block;
-		width: 100%;
-		height: 1px;
-		position: absolute;
-		top: 50%;
-		left: 0;
-		transform: rotate(45deg);
-		background-color: #fff;
-	  }
-	  
-	  .play-close::after {
-		transform: rotate(-45deg);
-	  }
-	  
-	  .play-circles {
-		display: block;
-		width: 100%;
-		height: 100%;
-	  }
-	  
-	  .play-perspective {
-		width: 600px;
-		height: 400px;
-		position: absolute;
-		left: -230px;
-		top: -125px;
-	  }
-	  
-	  .play-triangle {
-		width: 600px;
-		height: 400px;
-		background-color: #fff;
-		cursor: pointer;
-	  }
-	  .youtube-container {
-		display: block;
-		width: 100%;
-		max-width: 600px;
-		margin: 30px auto;
-	}
+	/*cs for the edits portion*/
 	
 	.youtube-player {
 		display: block;
@@ -3334,8 +3239,10 @@ input, select, textarea {
 		margin-left: -36px;
 		margin-top: -36px;
 		position: absolute;
-		background: url("https://freepngimg.com/thumb/categories/1398.png") no-repeat center center;
+		background-image: url("images/play2.png");
+		/*background: no-repeat center center;*/
 	  background-size: 72px 72px;
+	  /*original play button: "https://freepngimg.com/thumb/categories/1398.png"*/
 	}
 	
 	.youtube-iframe {

@@ -5,6 +5,7 @@
 */
 
 (function($) {
+	/*js for the video portion*/
 	/**
 	 * Get videos on load
 	 */
@@ -94,6 +95,7 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$html = $('html');
+	//Rest of JS
 
 	// Breakpoints.
 		breakpoints({
