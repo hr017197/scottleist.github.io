@@ -3240,9 +3240,8 @@ input, select, textarea {
 		margin-top: -36px;
 		position: absolute;
 		background-image: url("images/play2.png");
-		/*background: no-repeat center center;*/
-	  background-size: 72px 72px;
-	  /*original play button: "https://freepngimg.com/thumb/categories/1398.png"*/
+		background-size: 72px 72px;
+
 	}
 	
 	.youtube-iframe {
