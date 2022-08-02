@@ -3278,3 +3278,15 @@ input, select, textarea {
 			white-space: nowrap;
 			width: 4em;
 		}
+
+/*background image for edit section*/
+/*
+		#three{
+			background-image: url("images/overlay.png"), url("../../images/mountains2.JPEG");
+		}
+*/
+		@media (max-width:1000px) {
+			#optionalstuff {
+			  display: none;
+			}
+		  }
