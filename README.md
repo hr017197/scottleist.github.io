@@ -9,3 +9,6 @@ Changed portions include:
 - Personalizing many aspects
 - Adding links to youtube videos and formatting them with HTML, CSS and Javascript
 - Changing many aspects of CSS to correctly format changes to original code
+- Added photography and edits sections to show off work
+- Edited youtube videos to show thumbnail in a personalized way instead of youtubes generic version
+
