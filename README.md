@@ -12,4 +12,5 @@ Changed portions include:
 - Added photography and edits sections to show off work
 - Edited youtube videos to show thumbnail in a personalized way instead of youtubes generic version
 
+- Website link: https://scottleist.com/
 - Original template link: https://html5up.net/highlights
