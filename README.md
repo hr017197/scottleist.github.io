@@ -1,5 +1,5 @@
 # scottleist.github.io
-Scott's personal website
+Scott's personal website.
 Created a personal portfolio/business website using a tempate and changing a few aspects
 to fit desired look.
 Changed portions include:
@@ -11,4 +11,5 @@ Changed portions include:
 - Changing many aspects of CSS to correctly format changes to original code
 - Added photography and edits sections to show off work
 - Edited youtube videos to show thumbnail in a personalized way instead of youtubes generic version
-Original template link: https://html5up.net/highlights
+
+- Original template link: https://html5up.net/highlights
