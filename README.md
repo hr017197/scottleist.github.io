@@ -14,3 +14,8 @@ Changed portions include:
 
 - Website link: https://scottleist.com/
 - Original template link: https://html5up.net/highlights
+
+## Contact :mailbox:
+Email: hannahreader171@gmail.com
+
+Linked in: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-reader-36643b17b/)
